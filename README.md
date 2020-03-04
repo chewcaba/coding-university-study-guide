@@ -1,1 +1,1 @@
-# coding-university-study-guide
+# coding university study guide
